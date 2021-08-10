@@ -1,6 +1,6 @@
 hello git line 1 1111111111
 hello git line 2 2222222222
-hello git line 3
+hello git line 3 hot-fix branch
 hello git line 4
 hello git line 5
 hello git line 6
