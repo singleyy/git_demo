@@ -4,4 +4,4 @@ hello git line 3 hot-fix branch
 hello git line 4
 hello git line 5
 hello git line 6 master test
-hello git line 7 
+hello git line 7 hot-fix test 
